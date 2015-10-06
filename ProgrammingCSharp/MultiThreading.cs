@@ -8,5 +8,9 @@ namespace ProgrammingCSharp
 {
     public class MultiThreading
     {
+        public void Foo()
+        {
+
+        }
     }
 }
